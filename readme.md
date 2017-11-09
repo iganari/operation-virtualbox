@@ -7,16 +7,29 @@ VirtualBOXをCLIから操作するためのツール
 
 ### 使い方
 
++ 全てのBoxの名前の確認
+
+```
+$ sh vb-list.sh
+```
+
++ 現在動いていているBoxの確認
+
+```
+$ sh vb-list.sh runningvms
+```
+
 + 起動(headlessモード)
 
 ```
 $ sh vb-up-headless.sh <VirtualBoxのName>
 ```
 
++ 起動してるBoxのシャットダウン
 
-### 
-
-
+```
+作成中
+```
 
 
 ### 参考URL
