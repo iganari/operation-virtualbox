@@ -7,7 +7,11 @@ VirtualBOXをCLIから操作するためのツール
 
 ### 使い方
 
++ 起動(headlessモード)
 
+```
+$ sh vb-up-headless.sh <VirtualBoxのName>
+```
 
 
 ### 
