@@ -28,7 +28,7 @@ $ sh vb-up-headless.sh <VirtualBoxのName>
 + 起動してるBoxのシャットダウン
 
 ```
-作成中
+$ sh vb-poweroff.sh <VirtualBoxのName>
 ```
 
 
